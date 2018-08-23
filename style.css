@@ -13,6 +13,7 @@ body {
 }
 
 .body_bg_img {
+  padding: 10px;
   background: url("background/geometry.jpg");
   background-size: cover;
   background-attachment: fixed;
@@ -41,6 +42,7 @@ body {
 .grid {
   background: rgba(255, 255, 255, 0.85);
   display: grid;
+  padding: 5px;
   grid-gap: 0px;
   grid-template-areas: 
   "header  header  header  header  header "
@@ -78,6 +80,7 @@ body {
 
 .content {
   grid-area: content;
+  min-height: 1000px;
   /*background-color: #eeeeee;*/
 }
 
