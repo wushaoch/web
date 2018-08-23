@@ -17,6 +17,7 @@ body {
   background: url("background/geometry.jpg");
   background-size: cover;
   background-attachment: fixed;
+  -webkit-background-attachment: fixed; /*safari*/
 }
 
 /* 
