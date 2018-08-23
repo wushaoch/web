@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"align",
+				"align-self\tproperty"
+			],
+			[
 				"grid-co",
 				"grid-column-start\tproperty"
 			],
@@ -19,19 +23,9 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 492,
+				"buffer_size": 533,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "style.css",
-			"settings":
-			{
-				"buffer_size": 2346,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "* {"
 			}
 		},
 		{
@@ -42,6 +36,16 @@
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "TODO:"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 2962,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "* {"
 			}
 		}
 	],
@@ -102,7 +106,7 @@
 	],
 	"find":
 	{
-		"height": 45.0
+		"height": 33.0
 	},
 	"find_in_files":
 	{
@@ -135,7 +139,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -144,15 +148,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 492,
+						"buffer_size": 533,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6,
-								6
+								390,
+								390
 							]
 						],
 						"settings":
@@ -164,41 +168,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2346,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								911,
-								911
-							]
-						],
-						"settings":
-						{
-							"auto_name": "* {",
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 720.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "TODO.txt",
 					"semi_transient": false,
 					"settings":
@@ -221,6 +195,42 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2086,
+								2086
+							]
+						],
+						"settings":
+						{
+							"auto_name": "* {",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1152.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -246,11 +256,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.401352874859,
 			1.0
 		],
 		"rows":
@@ -298,7 +315,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
@@ -306,7 +323,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 222.0,
+	"side_bar_width": 224.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
